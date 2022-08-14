@@ -5,11 +5,15 @@
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.1865" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1865" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/drawable/shape_chat_kanan.xml" value="0.188" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/drawable/shape_chat_kiri.xml" value="0.188" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/layout/activity_home.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/layout/chat_kanan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/layout/chat_kiri.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/layout/list_user.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ChatApps/app/src/main/res/menu/menu_home.xml" value="0.253125" />
       </map>
